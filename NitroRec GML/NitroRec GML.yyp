@@ -1,0 +1,42 @@
+{
+  "$GMProject":"v1",
+  "%Name":"NitroRec GML",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":0,
+  "Folders":[],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.14.0.207",
+  },
+  "name":"NitroRec GML",
+  "resources":[
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"andando_para_baixo","path":"sprites/andando_para_baixo/andando_para_baixo.yy",},},
+    {"id":{"name":"andando_para_cima","path":"sprites/andando_para_cima/andando_para_cima.yy",},},
+    {"id":{"name":"andando_para_direita","path":"sprites/andando_para_direita/andando_para_direita.yy",},},
+    {"id":{"name":"andando_para_esquerda","path":"sprites/andando_para_esquerda/andando_para_esquerda.yy",},},
+    {"id":{"name":"parado_pra_baixo","path":"sprites/parado_pra_baixo/parado_pra_baixo.yy",},},
+    {"id":{"name":"parado_pra_cima","path":"sprites/parado_pra_cima/parado_pra_cima.yy",},},
+    {"id":{"name":"parado_pra_direita","path":"sprites/parado_pra_direita/parado_pra_direita.yy",},},
+    {"id":{"name":"parado_pra_esquerda","path":"sprites/parado_pra_esquerda/parado_pra_esquerda.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}

@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Object1","order":9,"path":"objects/Object1/Object1.yy",},
+    {"name":"andando_para_baixo","order":1,"path":"sprites/andando_para_baixo/andando_para_baixo.yy",},
+    {"name":"andando_para_cima","order":2,"path":"sprites/andando_para_cima/andando_para_cima.yy",},
+    {"name":"andando_para_direita","order":3,"path":"sprites/andando_para_direita/andando_para_direita.yy",},
+    {"name":"andando_para_esquerda","order":4,"path":"sprites/andando_para_esquerda/andando_para_esquerda.yy",},
+    {"name":"parado_pra_baixo","order":5,"path":"sprites/parado_pra_baixo/parado_pra_baixo.yy",},
+    {"name":"parado_pra_cima","order":6,"path":"sprites/parado_pra_cima/parado_pra_cima.yy",},
+    {"name":"parado_pra_direita","order":7,"path":"sprites/parado_pra_direita/parado_pra_direita.yy",},
+    {"name":"parado_pra_esquerda","order":8,"path":"sprites/parado_pra_esquerda/parado_pra_esquerda.yy",},
+  ],
+}
